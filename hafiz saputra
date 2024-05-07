@@ -1,0 +1,12 @@
+# Input
+panjang_persegi = int(input("Masukkan panjang persegi: "))
+
+# Menghitung keliling persegi
+keliling_persegi = 4 * panjang_persegi
+
+# Menghitung luas persegi
+luas_persegi = panjang_persegi * panjang_persegi
+
+# Menampilkan hasil
+print("Keliling persegi:", keliling_persegi)
+print("Luas persegi:", luas_persegi)
